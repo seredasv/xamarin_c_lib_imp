@@ -153,7 +153,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\XamarinCLibImp\XamarinCLibImp.csproj">
-      <Project>{952F46CB-DFCA-4BF4-AD45-C8AC93BC710A}</Project>
+      <Project>{010D5057-DF8D-4540-A1D2-7AEABD86A654}</Project>
       <Name>XamarinCLibImp</Name>
     </ProjectReference>
   </ItemGroup>

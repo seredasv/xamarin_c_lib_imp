@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
@@ -93,7 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XamarinCLibImp\XamarinCLibImp.csproj">
-      <Project>{952F46CB-DFCA-4BF4-AD45-C8AC93BC710A}</Project>
+      <Project>{010D5057-DF8D-4540-A1D2-7AEABD86A654}</Project>
       <Name>XamarinCLibImp</Name>
     </ProjectReference>
   </ItemGroup>
